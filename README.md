@@ -11,7 +11,7 @@
 **Backend:** Node.js, Express.js, NestJS  
 **Databases:** MongoDB, PostgreSQL, Redis  
 **Realtime:** Socket.IO, WebRTC  
-**Blockchain:** Solidity, Rust, Web3.js, Solana (learning & building DApps)
+**Blockchain:**  Solana (Rust, Anchor, Solana Web3.js)
 **Tools:** Docker, Git, Linux (Arch), Postman, VS Code  
 
 ---
