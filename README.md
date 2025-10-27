@@ -33,4 +33,4 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-link) • [Twitter/X](https://twitter.com/your-handle)
+[LinkedIn](https://linkedin.com/in/your-link) • [Twitter/X](https://x.com/shahnawaz_io)
